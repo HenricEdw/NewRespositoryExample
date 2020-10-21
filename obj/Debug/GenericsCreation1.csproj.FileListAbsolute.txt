@@ -1,0 +1,7 @@
+C:\CodeProjects\GenericsCreation1\bin\Debug\GenericsCreation1.exe.config
+C:\CodeProjects\GenericsCreation1\bin\Debug\GenericsCreation1.exe
+C:\CodeProjects\GenericsCreation1\bin\Debug\GenericsCreation1.pdb
+C:\CodeProjects\GenericsCreation1\obj\Debug\GenericsCreation1.csprojAssemblyReference.cache
+C:\CodeProjects\GenericsCreation1\obj\Debug\GenericsCreation1.exe
+C:\CodeProjects\GenericsCreation1\obj\Debug\GenericsCreation1.pdb
+C:\CodeProjects\GenericsCreation1\obj\Debug\GenericsCreation1.csproj.CoreCompileInputs.cache
